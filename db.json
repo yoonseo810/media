@@ -1,0 +1,150 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "1ec6",
+      "name": "Rudy Russel"
+    },
+    {
+      "id": "43fa",
+      "name": "Billy Emmerich"
+    },
+    {
+      "id": "b9b1",
+      "name": "Hugo Mertz"
+    },
+    {
+      "id": "290e",
+      "name": "Ms. Preston Rodriguez"
+    },
+    {
+      "id": "f2f3",
+      "name": "Woodrow Stark DVM"
+    },
+    {
+      "id": "a03b",
+      "name": "Andrea Auer PhD"
+    },
+    {
+      "id": "b8c3",
+      "name": "Lee Leannon DDS"
+    },
+    {
+      "id": "8248",
+      "name": "Wesley Farrell"
+    },
+    {
+      "id": "547e",
+      "name": "Brad Fisher MD"
+    },
+    {
+      "id": "aa2c",
+      "name": "Pat Williamson"
+    },
+    {
+      "id": "e5f1",
+      "name": "Gertrude Kuhn III"
+    },
+    {
+      "id": "7f1c",
+      "name": "Elizabeth Windler"
+    }
+  ],
+  "albums": [
+    {
+      "id": "9a22",
+      "userId": 1,
+      "title": "Licensed Metal Mouse"
+    },
+    {
+      "id": "b873",
+      "userId": 1,
+      "title": "Sleek Metal Chicken"
+    },
+    {
+      "id": "ee69",
+      "userId": 1,
+      "title": "Unbranded Frozen Fish"
+    },
+    {
+      "id": "c907",
+      "userId": 1,
+      "title": "Recycled Wooden Hat"
+    },
+    {
+      "id": "6dfd",
+      "userId": 1,
+      "title": "Unbranded Metal Pants"
+    },
+    {
+      "id": "724a",
+      "userId": "1ec6",
+      "title": "Small Cotton Sausages"
+    },
+    {
+      "id": "f9ad",
+      "userId": "1ec6",
+      "title": "Refined Fresh Chips"
+    },
+    {
+      "id": "4c0a",
+      "userId": "1ec6",
+      "title": "Gorgeous Steel Car"
+    },
+    {
+      "id": "d96a",
+      "userId": 1,
+      "title": "Incredible Plastic Pants"
+    },
+    {
+      "id": "16f5",
+      "userId": 1,
+      "title": "Awesome Steel Tuna"
+    }
+  ],
+  "photos": [
+    {
+      "id": "221e",
+      "albumId": "9a22",
+      "url": "https://loremflickr.com/150/150/abstract?lock=5402"
+    },
+    {
+      "id": "baef",
+      "albumId": "9a22",
+      "url": "https://loremflickr.com/150/150/abstract?lock=4173"
+    },
+    {
+      "id": "296a",
+      "albumId": "9a22",
+      "url": "https://loremflickr.com/150/150/abstract?lock=26970"
+    },
+    {
+      "id": "3733",
+      "albumId": "b873",
+      "url": "https://loremflickr.com/150/150/abstract?lock=26425"
+    },
+    {
+      "id": "c582",
+      "albumId": "9a22",
+      "url": "https://loremflickr.com/150/150/abstract?lock=7128"
+    },
+    {
+      "id": "a9f2",
+      "albumId": "9a22",
+      "url": "https://loremflickr.com/150/150/abstract?lock=83378"
+    },
+    {
+      "id": "6786",
+      "albumId": "9a22",
+      "url": "https://loremflickr.com/150/150/abstract?lock=63113"
+    },
+    {
+      "id": "958f",
+      "albumId": "9a22",
+      "url": "https://loremflickr.com/150/150/abstract?lock=13429"
+    }
+  ]
+}
